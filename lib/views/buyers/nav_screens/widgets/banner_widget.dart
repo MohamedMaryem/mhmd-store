@@ -16,7 +16,6 @@ class BannerWidget extends StatelessWidget {
           children: [
             Text('Banner1'),
             Text('Banner2'),
-            Text('Banner3'),
           ],
         ),
       ),
