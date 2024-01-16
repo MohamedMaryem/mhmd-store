@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876149752850",
+    "project_id": "mhmd-store-cfbf8",
+    "storage_bucket": "mhmd-store-cfbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876149752850:android:d78721cdd1aa34ee1244cb",
+        "android_client_info": {
+          "package_name": "com.example.mhmd_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH62DwGHj7UKR_SzsPHUoUZhX4HM14wDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
